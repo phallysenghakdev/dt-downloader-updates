@@ -2,6 +2,6 @@
   "version": "1.7.1",
   "required": false,
   "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/latest/download/DT_Downloader_Pro_v1.7.1_Setup.exe",
-  "sha256": "DEEB4A5041F03FCD3DBB6E9BBDC3963DE80FCCE4519B8702D24D296885EB5823",
+  "sha256": "FBFAC2090B7547E218A6A232CB5DC11F65B868BFFE4FB31560779ACD7906541F",
   "notes": "Initial online update release for DailyTips - Downloader Pro v1.7.1."
 }

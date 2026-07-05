@@ -1,7 +1,7 @@
 {
   "version": "1.7.3",
   "required": false,
-  "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.2/DT_Downloader_Pro_v1.7.2_Setup.exe",
-  "sha256": "520FFC14629FCA44CE1F758A64BDC657595844D86491728CA7ECC3A2E36D68F2",
-  "notes": "DailyTips - Downloader Pro v1.7.2 update."
+  "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.3/DT_Downloader_Pro_v1.7.3_Setup.exe",
+  "sha256": "56FF297B1A2C161F77545C1D1EE36A49C8BCD0361C0638E51F9F26949EE5D199",
+  "notes": "Added app update toast notification, improved update UI styling, and theme-colored update icons."
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.7.4",
   "required": false,
-  "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.3/DT_Downloader_Pro_v1.7.3_Setup.exe",
-  "sha256": "FC99C01F4BDA89962DC8DAAF57F55879CA42E287D22E755703920BEBE706A35C",
-  "notes": "Added app update toast notification, improved update UI styling, and theme-colored update icons."
+  "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.4/DT_Downloader_Pro_v1.7.4_Setup.exe",
+  "sha256": "BBD5FE349000E190F5161B3E4D8C7F5F1C7A20CFA924D932D4DBE6D76E8B1F00",
+  "notes": "Improved update release notes, added Save To preset folders, matched Save To menu theme, fixed idle Stop button state, improved compact window resize."
 }

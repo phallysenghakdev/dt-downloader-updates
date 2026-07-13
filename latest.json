@@ -1,7 +1,7 @@
 {
-  "version": "1.7.4",
-  "required": false,
-  "installer_url": "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.4/DT_Downloader_Pro_v1.7.4_Setup.exe",
-  "sha256": "BBD5FE349000E190F5161B3E4D8C7F5F1C7A20CFA924D932D4DBE6D76E8B1F00",
-  "notes": "Improved update release notes, added Save To preset folders, matched Save To menu theme, fixed idle Stop button state, improved compact window resize."
+    "version":  "1.7.5",
+    "required":  false,
+    "installer_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.5/DT_Downloader_Pro_v1.7.5_Setup.exe",
+    "sha256":  "8111D4E7511CC83AC0503F8BB0B555A6000A2498457D4974D59370BA03700F25",
+    "notes":  "Redesigned Download Settings, added output-folder and subtitle controls, added live font customization, improved Views sorting and custom filtering, improved scan and stop responsiveness, polished resizing and theme consistency."
 }

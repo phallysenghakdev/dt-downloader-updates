@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.5",
+    "version":  "1.7.6",
     "required":  false,
-    "installer_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.5/DT_Downloader_Pro_v1.7.5_Setup.exe",
-    "sha256":  "8111D4E7511CC83AC0503F8BB0B555A6000A2498457D4974D59370BA03700F25",
-    "notes":  "Redesigned Download Settings, added output-folder and subtitle controls, added live font customization, improved Views sorting and custom filtering, improved scan and stop responsiveness, polished resizing and theme consistency."
+    "installer_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_Setup.exe",
+    "sha256":  "D8ED1273629BA659F76B7265772A0BFA8D1E24039215A20D89A896EE0EBEC5ED",
+    "notes":  "Added Advanced Reset Application controls, improved safe automatic restart behavior, added manual app update checks, added verified direct browser-extension downloads with progress and downloaded-file detection, improved extension connection status reliability."
 }

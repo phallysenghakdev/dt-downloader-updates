@@ -2,6 +2,6 @@
     "version":  "1.7.6",
     "required":  false,
     "installer_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_Setup.exe",
-    "sha256":  "D8ED1273629BA659F76B7265772A0BFA8D1E24039215A20D89A896EE0EBEC5ED",
+    "sha256":  "FF5A5035B5F2580D3BC84A8661F9087DD9B51BEC898029056E0C18970EDD9A37",
     "notes":  "Added Advanced Reset Application controls, improved safe automatic restart behavior, added manual app update checks, added verified direct browser-extension downloads with progress and downloaded-file detection, improved extension connection status reliability."
 }

@@ -1,10 +1,12 @@
 {
     "video_detector":  {
-                           "version":  "1.7.7",
-                           "download_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_Extension.zip"
+                           "version":  "1.7.6",
+                           "download_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_Extension.zip",
+                           "sha256":  "78444376AAA0EA37E768E71575F7ADAF9F1C3A20EAFC23CC62EAF56C67A18292"
                        },
     "url_sender":  {
-                       "version":  "1.7.7",
-                       "download_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_URL_Sender_Extension.zip"
+                       "version":  "1.7.6",
+                       "download_url":  "https://github.com/phallysenghakdev/dt-downloader-updates/releases/download/v1.7.6/DT_Downloader_Pro_v1.7.6_URL_Sender_Extension.zip",
+                       "sha256":  "11826E59A0C933823B05CFC4E9B4574CB977E271B55EE3F30E888032036EF7B2"
                    }
 }
